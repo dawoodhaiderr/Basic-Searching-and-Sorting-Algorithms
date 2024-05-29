@@ -1,1 +1,1 @@
-# Basic-Searching-and-Sorting-Algorithms
+# Sorting-Algorithms
